@@ -6,7 +6,7 @@
     "start_url":"/Portfolio",
     "background_color":"#F00",
     "them_color":"#0FF",
-    "display":"stanfalone",
+    "display":"standalone",
     "shortcut":[
         {
             "name":"Learn About Us",
